@@ -47,3 +47,9 @@ git branch -M main
 
 - Pushed our local repository to the remote repository
 git push -u origin main
+
+- Cloning Repository
+git clone <repository URL>
+
+- Pulling changes from a Remote Repository
+giit pull origin main
